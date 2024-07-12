@@ -12,5 +12,5 @@ func main() {
 	// Register API routes
 	api.RegisterRoutes(r)
 
-	r.Run(":8080")
+	r.Run(":8092")
 }
